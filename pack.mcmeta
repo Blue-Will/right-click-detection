@@ -1,6 +1,6 @@
  {
        "pack": {
-           "min_format": 124,
+           "min_format": 88,
            "max_format": 126,
            "description": "A datapack to test Right Click Detection"
        }
