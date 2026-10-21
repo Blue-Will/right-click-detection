@@ -1,0 +1,18 @@
+{
+    "criteria": {
+      "using_item": {
+        "trigger": "minecraft:using_item",
+        "conditions": {
+          "item": {
+            "items": "minecraft:turtle_scute",
+            "predicates": {
+              "minecraft:custom_data": "{click:true}"
+            }
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "rightclick:detected"
+    }
+  }
